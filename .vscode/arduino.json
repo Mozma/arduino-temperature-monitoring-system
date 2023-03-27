@@ -1,0 +1,9 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "Arduino_based_Temperature_Monitoring_system.ino",
+    "port": "/dev/ttyUSB0",
+    "output": "../ArduinoOutput"
+
+}
